@@ -11,14 +11,14 @@
     "build:dev": "webpack --mode development"
   },
   "dependencies": {
-    "@babel/core": "^7.28.3",
-    "@babel/node": "^7.28.0",
-    "@babel/preset-env": "^7.28.3",
+    "@babel/core": "^8.0.1",
+    "@babel/node": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
     "@babylonjs/core": "^8.23.0",
     "@babylonjs/loaders": "^8.23.1",
     "ammojs-typed": "^1.0.6",
     "assert": "^2.1.0",
-    "babel-loader": "^10.0.0",
+    "babel-loader": "^10.1.1",
     "generate-license-file-webpack-plugin": "^4.0.0",
     "path-browserify": "^1.0.1",
     "terser-webpack-plugin": "^5.3.14",

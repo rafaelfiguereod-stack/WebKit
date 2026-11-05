@@ -12,7 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@babel/core": "^7.28.3",
+    "@babel/core": "^8.0.1",
     "@dapplets/unicode-escape-webpack-plugin": "github:dapplets/unicode-escape-webpack-plugin",
     "babel-loader": "^10.0.0",
     "license-webpack-plugin": "^4.0.2",
